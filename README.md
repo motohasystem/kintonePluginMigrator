@@ -1,3 +1,5 @@
+![](images/icon128.png) 
+
 # ぷらまい kintonePluginMigrator
 
 「ぷらまい」はkintoneのプラグイン設定をマイグレーションするChrome拡張です。
@@ -5,6 +7,13 @@
 この拡張機能をインストールしたブラウザから、kintoneのプラグイン設定画面を表示すると左下に'⇩ダウンロード'と'⇧アップロード'の青い2つのボタンが現れます。
 
 ![](img/1280x800.jpg)
+
+## インストール方法
+
+Chromeウェブストアに公開しています。お使いのブラウザ(Chrome または Edge)でストアにアクセスしてインストールしてください。
+
+[![](images/icon48.png) kintonePluginMigrator](https://chromewebstore.google.com/detail/pndmdhhanlckeimjahjfijelpkbgoeac)
+
 
 ## ⇩ダウンロード
 ダウンロード機能はjsonとしてプラグイン設定を保存します。保存したjsonファイルは、⇧アップロード機能から読み込むことができます。
